@@ -56,3 +56,6 @@ Used Pandas for cleaning and analysis and Matplotlib for visualization.
 
 ### Power BI
 Created KPI cards, department comparison, monthly trend analysis and a batch slicer.
+<img width="902" height="660" alt="Screenshot 2026-09-26 175021" src="https://github.com/user-attachments/assets/6da6e2ff-b5a1-462c-9fbd-84282a4d4ee6" />
+
+
